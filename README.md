@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simón</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Web UI Engineer, and beyond..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon8x&label=Profile%20views&color=0e75b6&style=flat" alt="simon8x" /> </p>
 
