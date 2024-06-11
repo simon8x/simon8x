@@ -15,7 +15,4 @@ I'm Simón Yamil Ibalo, a Web UI Developer and Scrum Master with over twelve yea
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
----
-[![](https://visitcount.itsvg.in/api?id=simon8x&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
